@@ -12,6 +12,13 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  padding: 90px 0;
+}
+
+body, html {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
 }
 
 nav {
